@@ -1,0 +1,6 @@
+﻿  FileName.cpp
+C:\Users\Administrator\Downloads\Hotel_Data_Structure\Hotel_Data_Structure\Hotel_Data_Structure\FileName.cpp(209,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Administrator\Downloads\Hotel_Data_Structure\Hotel_Data_Structure\Hotel_Data_Structure\FileName.cpp(495,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Administrator\Downloads\Hotel_Data_Structure\Hotel_Data_Structure\Hotel_Data_Structure\FileName.cpp(567,42): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Administrator\Downloads\Hotel_Data_Structure\Hotel_Data_Structure\Hotel_Data_Structure\FileName.cpp(610,59): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+  Hotel_Data_Structure.vcxproj -> C:\Users\Administrator\Downloads\Hotel_Data_Structure\Hotel_Data_Structure\x64\Debug\Hotel_Data_Structure.exe
